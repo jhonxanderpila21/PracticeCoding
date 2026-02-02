@@ -2,8 +2,9 @@
 
 int main() {
 
-printf("goles");
+
 printf("diendo gay");
+printf("escoro");
     return 0;
 
 }
